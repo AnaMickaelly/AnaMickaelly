@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-<!--
-**AnaMickaelly/AnaMickaelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **Javascript, NodeJs, PHP, Laravel, SQL**.
 
-Here are some ideas to get you started:
+<!-- - 💬 Ask me about **Back-End** -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me ****
+
+### Where to find me? :mag:
+
+<a href="https://twitter.com/Ana26926348"><img src="./images/twitter.png" width="16"/></a> [Twitter](https://twitter.com/Ana26926348)
+
+<a href="https://www.instagram.com/anaagu4ilar_/"><img src="./images/instagram.png" width="16"/></a> [Instagram](https://www.instagram.com/anaagu4ilar_/)
+
+<a href="mailto:ana.codes2@gmail.com"><img src="./images/email.png" width="16"/></a> [Email](mailto:ana.codes2@gmail.com)
