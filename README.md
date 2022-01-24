@@ -8,9 +8,9 @@
 
 ### Where to find me? :mag:
 
-<a href="https://twitter.com/Ana26926348"><img src="./images/twitter.png" width="16"/></a> [Twitter](https://twitter.com/Ana26926348)
+<a href="https://twitter.com/Ana26926348"></a> [Twitter](https://twitter.com/Ana26926348)
 
-<a href="https://www.instagram.com/anaagu4ilar_/"><img src="./images/instagram.png" width="16"/></a> [Instagram](https://www.instagram.com/anaagu4ilar_/)
+<a href="https://www.instagram.com/anaagu4ilar_/"></a> [Instagram](https://www.instagram.com/anaagu4ilar_/)
 
-<a href="mailto:ana.codes2@gmail.com"><img src="./images/email.png" width="16"/></a> [Email](mailto:ana.codes2@gmail.com)
+<a href="mailto:ana.codes2@gmail.com"></a> [Email](mailto:ana.codes2@gmail.com)
 
