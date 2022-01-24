@@ -1,6 +1,6 @@
 ![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-- 🌱 I’m currently learning **Javascript, NodeJs, PHP, Laravel, SQL**.
+- 🌱 I’m currently learning **Javascript, NodeJs, PHP, Laravel, SQL, React, Redux**.
 
 <!-- - 💬 Ask me about **Back-End** -->
 
