@@ -14,3 +14,16 @@
 
 <a href="mailto:ana.codes2@gmail.com"></a> [Email](mailto:ana.codes2@gmail.com)
 
+
+<center>
+  <table>
+    <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=AnaMickaelly&show_icons=true&theme=material-palenight" alt="AnaMickaelly" /></td>
+<td><img width="370px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaMickaelly&hide=html&layout=compact&theme=material-palenight" /></td>
+</tr>   
+  </table>
+</center>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AnaMickaelly alt="AnaMickaelly" /> </p>
+
+
