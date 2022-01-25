@@ -24,6 +24,5 @@
   </table>
 </center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anamickaelly alt="AnaMickaelly" /> </p>
 
 
