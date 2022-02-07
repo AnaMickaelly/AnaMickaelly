@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+![](https://cdn.discordapp.com/attachments/938415506522783790/940373519785680916/hello-there-baby-yoda.gif)
 
 - 🌱 I’m currently learning **Javascript, NodeJs, PHP, Laravel, SQL, React, Redux**.
 
