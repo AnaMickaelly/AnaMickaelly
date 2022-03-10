@@ -1,7 +1,7 @@
 ![](https://cdn.discordapp.com/attachments/938415506522783790/940373519785680916/hello-there-baby-yoda.gif)
 
 - 🔭 I am currently working as a Frontend developer at [E-can](https://www.agenciaecan.com.br/)
-- 🌱 I’m currently learning **Javascript, NodeJs, PHP, Laravel, SQL, React, Redux**.
+- 🌱 I’m currently learning **Javascript, NodeJs, PHP, Laravel, SQL, React, **.
 
 <!-- - 💬 Ask me about **Back-End** -->
 
