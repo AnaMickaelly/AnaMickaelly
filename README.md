@@ -9,7 +9,7 @@
 
 ### Where to find me? :mag:
 
-<a href="https://twitter.com/Ana26926348"></a> [Twitter](https://twitter.com/Ana26926348)
+<a href="https://twitter.com/ana_codes2"></a> [Twitter](https://twitter.com/ana_codes2)
 
 <a href="https://www.instagram.com/anaagu4ilar_/"></a> [Instagram](https://www.instagram.com/anaagu4ilar_/)
 
