@@ -5,7 +5,7 @@
 
 <!-- - 💬 Ask me about **Back-End** -->
 
-- 📫 How to reach me **ana.codes2@gmail.com**
+
 
 ### Where to find me? :mag:
 
