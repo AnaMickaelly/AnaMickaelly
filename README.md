@@ -2,7 +2,7 @@
 
 
 ###
-welcome! :mag:
+welcome!:
 
 <!-- - 💬 Ask me about **Back-End** -->
 
