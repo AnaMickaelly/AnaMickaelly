@@ -1,12 +1,9 @@
-![](https://cdn.discordapp.com/attachments/938415506522783790/940373519785680916/hello-there-baby-yoda.gif)
+# hello!
 
-
-###
-welcome!
-
-<!-- - 💬 Ask me about **Back-End** -->
-
-
+<h2> 
+    Hi, I'm Ana Mickaelly!
+    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
 
 ### Where to find me? :mag:
 
@@ -17,7 +14,11 @@ welcome!
 <a href="mailto:ana.codes2@gmail.com"></a> [Email](mailto:ana.codes2@gmail.com)
 
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=1fapwduc8ns4vddy83jmfha1x&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=1fapwduc8ns4vddy83jmfha1x&cover_image=true&theme=default&show_offline=false&bar_color=b14eae)]]
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+</div>
 
 
 
