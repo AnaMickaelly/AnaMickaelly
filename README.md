@@ -15,9 +15,6 @@
 
 <a href="mailto:https://www.linkedin.com/in/anamickaellydev/"></a> [Linkedin](mailto:https://www.linkedin.com/in/anamickaellydev/)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1fapwduc8ns4vddy83jmfha1x&cover_image=true&theme=default&show_offline=false&bar_color=b14eae)](https://github.com/kittinan/spotify-github-profile)
-
 </div>
 
 
